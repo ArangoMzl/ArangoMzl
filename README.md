@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras. Me especializo in desarrollo full-stack y siempre estoy buscando nuevos desafíos que me permitan crecer profesionalmente.
+Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras. Me especializo in desarrollo frontend y siempre estoy buscando nuevos desafíos que me permitan crecer profesionalmente.
 
 - 🔭 Actualmente trabajando en: **Proyectos CRM y soluciones empresariales**
 - 🌱 Aprendiendo: **Nuevas tecnologías de desarrollo web**
@@ -23,7 +23,6 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras. 
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### Bases de Datos
@@ -34,7 +33,6 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras. 
 ### Herramientas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
