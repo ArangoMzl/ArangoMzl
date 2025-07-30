@@ -39,8 +39,8 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras. 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArangoMd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArangoMd&layout=compact&langs_count=7&theme=dark"/>
+  ![ArangoMzl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArangoMzl&theme=react&show_icons=true&hide_border=true&layout=compact)
+  ![ArangoMzl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArangoMzl&theme=react&hide_border=true)
 </div>
 
 ---
@@ -61,12 +61,6 @@ Plataforma educativa innovadora para el aprendizaje interactivo.
 Kit de herramientas para desarrollo rápido de sistemas CRM.
 - **Tecnologías:** Shell scripting, automatización
 - **Características:** Scripts de despliegue, configuración automática
-
----
-
-## 📈 Actividad de Contribuciones
-
-![ArangoMzl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArangoMzl&theme=react&hide_border=true)
 
 ---
 
