@@ -66,18 +66,7 @@ Kit de herramientas para desarrollo rápido de sistemas CRM.
 
 ## 📈 Actividad de Contribuciones
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArangoMd&theme=dark" alt="GitHub Streak" />
-</div>
-
----
-
-## 🤝 Conecta conmigo
-
-- 💼 **LinkedIn:** [Tu perfil de LinkedIn aquí]
-- 🐦 **Twitter:** [@tu_usuario]
-- 📧 **Email:** tu.email@ejemplo.com
-- 🌐 **Portfolio:** [tu-portfolio.com]
+![ArangoMzl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArangoMzl&theme=react&hide_border=true)
 
 ---
 
