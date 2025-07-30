@@ -38,10 +38,7 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras. 
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  ![ArangoMzl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArangoMzl&theme=react&show_icons=true&hide_border=true&layout=compact)
-  ![ArangoMzl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArangoMzl&theme=react&hide_border=true)
-</div>
+![ArangoMzl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArangoMzl&theme=react&hide_border=true)
 
 ---
 
