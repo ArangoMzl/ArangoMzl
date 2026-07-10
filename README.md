@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy ArangoMd
+# ¡Hola! 👋 Soy Sebastian Arango
 
 ## 🚀 Sobre mí
 
