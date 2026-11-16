@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://record-mind.arkevo.pro"><img src="https://img.shields.io/badge/Arkevo-record--mind-ea1889?style=flat-square" alt="Arkevo" /></a>
+  <a href="https://arkevo.pro"><img src="https://img.shields.io/badge/Arkevo-arkevo.pro-ea1889?style=flat-square" alt="Arkevo" /></a>
   <img src="https://img.shields.io/badge/📍-Manizales%2C%20Colombia-18181c?style=flat-square" alt="Ubicación" />
   <img src="https://komarev.com/ghpvc/?username=ArangoMzl&label=Visitas&color=0e75b6&style=flat-square" alt="Visitas al perfil" />
 </p>
@@ -16,7 +16,7 @@
 
 Me gusta construir software que resuelve problemas reales: desde ERPs y CRMs para negocios hasta apps de escritorio y mods de Minecraft. Últimamente me enfoco en herramientas **locales y de código abierto** que hacen más fluido el trabajo con [Claude Code](https://claude.com/claude-code).
 
-- 🔭 Ahora mismo: **[Arkevo](https://record-mind.arkevo.pro)**, un ecosistema de apps locales para agentes que recuerdan
+- 🔭 Ahora mismo: **[Arkevo](https://arkevo.pro)**, un ecosistema de apps locales para agentes que recuerdan
 - 🏢 Trabajo en: **InSoft**, desarrollando sistemas empresariales
 - 🌱 Aprendiendo: **Rust + Tauri**, Cloudflare Workers y flujos de trabajo con agentes de IA
 - 💬 Pregúntame sobre: **TypeScript, Svelte, apps de escritorio con Electron/Tauri, bases de datos**
@@ -28,12 +28,12 @@ Me gusta construir software que resuelve problemas reales: desde ERPs y CRMs par
 
 | Proyecto | Descripción | Stack |
 | --- | --- | --- |
-| 📝 **[record-mind](https://github.com/ArangoMzl/record-mind)** | Tablero de micro-pendientes para Claude Code: capturas el detalle con nota y captura, Claude lo resuelve con la memoria de Engram y te lo deja para revisar. · [Web](https://record-mind.arkevo.pro) | Rust · Tauri 2 |
-| 🧠 **[engram-view](https://github.com/ArangoMzl/engram-view)** | Visor local de solo lectura para la memoria de Engram: memorias, sesiones y relaciones de forma interactiva. Instalador para Windows. · [Web](https://engram-view.arkevo.pro) | JavaScript · Electron · SQLite |
-| 💸 **[price-pulse](https://github.com/ArangoMzl/price-pulse)** | Comparador de precios de Amazon. · [Demo](https://pp-pulse.streamlit.app) | Python · Streamlit |
-| ✨ **[BetterBlurKit](https://github.com/ArangoMzl/BetterBlurKit)** | Mod de Fabric 1.21 para BlurKit Network: chat más limpio, tarjetas de eventos y UI movible. | Java · Fabric |
-| ⛏️ **[GensAuto](https://github.com/ArangoMzl/GensAuto)** | Mod de Fabric 1.21: panel de nivel y prestigio, y rutas grabadas para minado y cosecha automáticos. | Java · Fabric |
-| 🃏 **[Brainscape Beta](https://github.com/ArangoMzl/brainscape-beta)** | Plataforma de aprendizaje con flashcards. · [Demo](https://brainscape-beta.vercel.app) | JavaScript · HTML · CSS |
+| 📝&nbsp;**[record‑mind](https://github.com/ArangoMzl/record-mind)** | Tablero de micro-pendientes para Claude Code: capturas el detalle con nota y captura, Claude lo resuelve con la memoria de Engram y te lo deja para revisar. · [Web](https://record-mind.arkevo.pro) | Rust · Tauri 2 |
+| 🧠&nbsp;**[engram‑view](https://github.com/ArangoMzl/engram-view)** | Visor local de solo lectura para la memoria de Engram: memorias, sesiones y relaciones de forma interactiva. Instalador para Windows. · [Web](https://engram-view.arkevo.pro) | JavaScript · Electron · SQLite |
+| 💸&nbsp;**[price‑pulse](https://github.com/ArangoMzl/price-pulse)** | Comparador de precios de Amazon. · [Demo](https://pp-pulse.streamlit.app) | Python · Streamlit |
+| ✨&nbsp;**[BetterBlurKit](https://github.com/ArangoMzl/BetterBlurKit)** | Mod de Fabric 1.21 para BlurKit Network: chat más limpio, tarjetas de eventos y UI movible. | Java · Fabric |
+| ⛏️&nbsp;**[GensAuto](https://github.com/ArangoMzl/GensAuto)** | Mod de Fabric 1.21: panel de nivel y prestigio, y rutas grabadas para minado y cosecha automáticos. | Java · Fabric |
+| 🃏&nbsp;**[Brainscape&nbsp;Beta](https://github.com/ArangoMzl/brainscape-beta)** | Plataforma de aprendizaje con flashcards. · [Demo](https://brainscape-beta.vercel.app) | JavaScript · HTML · CSS |
 
 <details>
 <summary><b>🔒 Otros proyectos (privados)</b></summary>
